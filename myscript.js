@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 const nomeUtente = prompt('Inserisci il tuo nome:');
 const cognomeUtente = prompt('Inserisci il tuo cognome:');
@@ -11,5 +11,6 @@ console.log(
 );
 
 // Tramite il metodo writeln
-// document.writeln(nomeUtente + cognomeUtente + colorePreferito + numero);
-// console.log(nomeUtente + cognomeUtente + colorePreferito + numero);
+// const password = nomeUtente + cognomeUtente + colorePreferito + numero;
+// document.writeln(password);
+// console.log(password);
