@@ -1,3 +1,5 @@
+'use strict';
+
 const nomeUtente = prompt('Inserisci il tuo nome:');
 const cognomeUtente = prompt('Inserisci il tuo cognome:');
 const colorePreferito = prompt('Inserisci il tuo colore preferito:');
