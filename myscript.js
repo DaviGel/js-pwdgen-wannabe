@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 
 const nomeUtente = prompt('Inserisci il tuo nome:');
 const cognomeUtente = prompt('Inserisci il tuo cognome:');
